@@ -1,0 +1,30 @@
+<resources>
+    <!-- Existing string resources -->
+    <string name="app_name">Tip Calculator</string>
+    <string name="cost_of_service">Cost of Service</string>
+    <string name="how_was_the_service">How was the service?</string>
+    <string name="amazing_20">Amazing (20%)</string>
+    <string name="good_15">Good (15%)</string>
+    <string name="fair_10">Fair (10%)</string>
+    <string name="calculate">Calculate</string>
+    <string name="tip_amount">Tip Amount: %s</string>
+    <string name="total">Total: %s</string>
+
+    <!-- New string resource -->
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="privacy_policy">privacy_policy</string>
+    <string name="privacy_policy_content">Privacy Policy\n\nEffective Date: 25 JUNE 2024
+        \n\nWelcome to TipCal. Your privacy is important to us.
+        This Privacy Policy explains how we collect, use, and protect your information when you use our app.
+        \n\nWe do not collect any personally identifiable information (PII) from users of TipCal. The app operates entirely on your device and does
+        not transmit any data to our servers or any third parties.\n\nSince we do not collect any personal data,
+        we do not use any personal information for any purposes.\n\nWe implement security measures to protect the data on your device.
+        However, please be aware that no method of electronic storage is completely secure.\n\nWe may update our Privacy Policy from time to time.
+        We will notify you of any changes by posting the new Privacy Policy in the app.\n\nIf you have any questions about this Privacy Policy,
+        please contact us at danielmommsen2@gmail.com.\n\nBy using TipCal, you agree to the terms of this Privacy Policy.</string>
+
+
+
+
+
+</resources>

@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TipCal" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Primary brand color. -->
+        <!--======Button Color and radio button ======-->
+        <item name="colorPrimary">@color/Blue_Grey_Dark</item>
+        <!--======Top Bar Color======-->
+        <item name="colorPrimaryVariant">@color/Orange_Dark</item>
+        <!--======Button Text Color======-->
+        <item name="colorOnPrimary">@color/Orange</item>
+
+
+        <!--======Secondary brand color====-->
+        <!--=====Switch Color====-->
+        <item name="colorSecondary">@color/Orange_Dark</item>
+
+
+
+        <!--===Status bar color===-->
+        <item name="android:statusBarColor">@color/Orange_Dark</item>
+
+        <!--========Text On Primary========-->
+        <item name="android:textColorPrimary">@color/Blue_Grey_Dark</item>
+    </style>
+</resources>

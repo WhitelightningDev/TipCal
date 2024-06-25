@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    -->Primary Colors
+    <color name="Blue_Grey">#37474f</color>
+    <color name="blue_Grey_light">#62727b</color>
+    <color name="Blue_Grey_Dark">#102027</color>
+
+    -->Secondary colors
+    <color name="Orange">#ffb74d</color>
+    <color name="Orange_Light">#ffe97d</color>
+    <color name="Orange_Dark">#009688</color>
+
+    -->Text on Primary
+    <color name="Amber">#ffd54f</color>
+
+    -->Text on Secondary
+    <color name="Grey">@color/Orange</color>
+
+    <color name="primary">#6200EE</color>
+    <color name="white">#FFFFFF</color>
+</resources>
